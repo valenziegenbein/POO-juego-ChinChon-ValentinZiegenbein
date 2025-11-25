@@ -1,0 +1,28 @@
+========================================
+   CHIN-CHON 
+========================================
+
+INSTRUCCIONES PARA EJECUTAR EL JUEGO:
+
+1. Ejecutar con doble clic:
+   - Hacer doble clic en "EjecutarChinChon.bat"
+   
+2. Ejecutar desde la línea de comandos:
+   - Abrir una terminal en esta carpeta
+   - Ejecutar: java -jar ChinChon.jar
+
+REQUISITOS:
+- Java JDK o JRE instalado (versión 8 o superior)
+- El archivo ChinChon.jar debe estar en la misma carpeta
+
+DESCRIPCIÓN:
+Este es un juego de cartas Chin-Chon implementado en Java.
+El juego permite jugar con 4 jugadores usando una baraja española
+de 40 cartas más 2 comodines.
+
+REGLAS DEL JUEGO:
+- Cada jugador recibe 7 cartas
+- El objetivo es formar grupos ligados (escaleras o grupos del mismo número)
+- Se puede cerrar la mano cuando se tienen 7 cartas organizadas correctamente
+- El jugador con menos puntos al final gana
+

@@ -1,0 +1,55 @@
+Reglas del juego de Chinchón
+El Chinchón es un juego de cartas, muy popular en España y algunos países de Sudamérica, en el que se deben ligar las cartas de la mano en grupos de tres o más.
+
+Se puede considerar como una versión rápida y fácil de aprender de los juegos tipo rummy, en los que el objetivo consiste en combinar las cartas formando escaleras o grupos con el mismo indice.
+
+Para empezar
+Se usa una baraja española de 40 o 48 cartas, con o sin comodines. Se reparten siete cartas a cada jugador. Se deja en el centro una carta boca arriba al lado del resto de la baraja, que está boca abajo.
+
+Jugar las cartas
+Cada jugador en su turno debe coger la carta superior del montón, o bien, si considera que le conviene, la carta descubierta en el centro.
+
+Tras coger esa carta, y con 8 cartas en la mano, el jugador debe lanzar una de ellas, descubierta, al centro de la mesa, sobre las que hay allí boca arriba.
+
+Ligar las cartas
+En cada mano, los jugadores deben intentar ligar sus cartas. Ligar las cartas es hacer grupos de al menos tres cartas unidas por uno de los criterios siguientes:
+
+Cartas con el mismo índice.
+Cartas de un mismo palo que forman una escalera.
+Si la partida es con comodines éstos pueden sustituir a cualquier carta de la baraja. Debe haber en cada grupo de cartas por lo menos dos que no sean comodín.
+
+  3 Cincos   Escalera    Escalera con comodín
+Cerrar la mano
+Un jugador en su turno, al deshacerse de una carta, puede cerrar la mano si sus cartas cumplen una de estas condiciones:
+
+Forman una escalera de siete cartas.
+Están ligadas en dos grupos, uno de tres cartas y otro de cuatro.
+Están ligadas en dos grupos de tres cartas (u ocasionalmente una escalera de seis cartas), y la séptima carta tiene un valor inferior a cinco.
+En la primera vuelta de cada mano no se puede cerrar.
+
+Colocar las cartas
+En el Chinchón, una vez que un jugador ha cerrado una mano, los demás deben intentar sumar la menor cantidad posible de puntos. Para ello, los jugadores van mostrando los grupos de cartas ligadas.
+
+Si el jugador que ha cerrado la mano se ha quedado con una carta sin ligar, los jugadores pueden colocar las cartas que les restan en cualquiera de los grupos de la mesa. Sin embargo, esto no es posible cuando quien cierra lo hace teniendo sus siete cartas ligadas.
+
+Recuento de la mano
+Una vez colocadas todas las cartas ligadas, cada jugador suma los puntos de las cartas restantes.
+
+Si el jugador que cierra la mano lo hace ligando sus 7 cartas, obtiene el premio de restar puntos:
+
+Menos 10 (-10) con dos grupos de cartas (uno de tres y otro de cuatro).
+Menos 25 (-25) con una escalera de siete cartas con dos comodines.
+Menos 50 (-50) con una escalera de siete cartas con un comodín.
+Chinchón: con una escalera de siete cartas sin comodines gana la partida directamente.
+
+Chinchón para 4 jugadores
+Se juega con baraja de 40 cartas y 2 comodines.
+
+El final de la partida se rige por las siguientes reglas:
+
+Cuando un jugador sobrepasa por primera vez el límite de los 100 puntos, se mantiene en la partida utilizando su opción de reenganche.
+El jugador que se reengancha adquiere la máxima puntuación del resto de los participantes que siguen en juego.
+El jugador que supera los 100 puntos por segunda vez queda eliminado.
+El jugador que cierra la mano consigue la victoria inmediatamente si todos los demás rivales superan simultáneamente los 100 puntos. En este caso no pueden utilizar el reenganche.
+En particular, la opción de reenganche nunca puede utilizarse cuando solamente quedan en juego dos participantes.
+La partida finaliza inmediatamente cuando un jugador gana haciendo chinchón.
